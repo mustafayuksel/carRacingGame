@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: 7c7e9b7a7ba932a40bd6fe2d65df70af
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 00-LIT-stret-bas
+    100002: 00-LIT-stret-box
+    100004: 00-LIT-stret-cap
+    100006: 00-LIT-stret-lamp
+    100008: 00-LIT-stret-lamp-arm
+    100010: 00-LIT-stret-lamp-brckt
+    100012: 00-LIT-stret-lamp-bulb
+    100014: 00-LIT-stret-lamp-snsr
+    100016: 00-LIT-stret-pole
+    100018: //RootNode
+    400000: 00-LIT-stret-bas
+    400002: 00-LIT-stret-box
+    400004: 00-LIT-stret-cap
+    400006: 00-LIT-stret-lamp
+    400008: 00-LIT-stret-lamp-arm
+    400010: 00-LIT-stret-lamp-brckt
+    400012: 00-LIT-stret-lamp-bulb
+    400014: 00-LIT-stret-lamp-snsr
+    400016: 00-LIT-stret-pole
+    400018: //RootNode
+    2300000: 00-LIT-stret-bas
+    2300002: 00-LIT-stret-box
+    2300004: 00-LIT-stret-cap
+    2300006: 00-LIT-stret-lamp
+    2300008: 00-LIT-stret-lamp-arm
+    2300010: 00-LIT-stret-lamp-brckt
+    2300012: 00-LIT-stret-lamp-bulb
+    2300014: 00-LIT-stret-lamp-snsr
+    2300016: 00-LIT-stret-pole
+    3300000: 00-LIT-stret-bas
+    3300002: 00-LIT-stret-box
+    3300004: 00-LIT-stret-cap
+    3300006: 00-LIT-stret-lamp
+    3300008: 00-LIT-stret-lamp-arm
+    3300010: 00-LIT-stret-lamp-brckt
+    3300012: 00-LIT-stret-lamp-bulb
+    3300014: 00-LIT-stret-lamp-snsr
+    3300016: 00-LIT-stret-pole
+    4300000: 00-LIT-stret-lamp-bulb
+    4300002: 00-LIT-stret-lamp
+    4300004: 00-LIT-stret-lamp-snsr
+    4300006: 00-LIT-stret-pole
+    4300008: 00-LIT-stret-cap
+    4300010: 00-LIT-stret-lamp-brckt
+    4300012: 00-LIT-stret-box
+    4300014: 00-LIT-stret-bas
+    4300016: 00-LIT-stret-lamp-arm
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

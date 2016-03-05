@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 29caf0c3c1ab6d04ba65eab972e1c9cf
+timeCreated: 1426349228
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Axles
+    100002: Body
+    100004: Canopy
+    100006: CanopyWindows
+    100008: Exhaust
+    100010: FrontBumper
+    100012: FrontLeftRim
+    100014: FrontLeftTyre
+    100016: FrontNumberPlate
+    100018: FrontRightRim
+    100020: FrontRightTyre
+    100022: FrontWindows
+    100024: FrontWindows 1
+    100026: Hood
+    100028: Mirrors
+    100030: //RootNode
+    100032: RearDoor
+    100034: RearLeftBumper
+    100036: RearLeftRim
+    100038: RearLeftTyre
+    100040: RearNumberPlate
+    100042: RearRightBumper
+    100044: RearRightTyre
+    100046: Rollcage
+    100048: SideBars
+    100050: Spotlights
+    400000: Axles
+    400002: Body
+    400004: Canopy
+    400006: CanopyWindows
+    400008: Exhaust
+    400010: FrontBumper
+    400012: FrontLeftRim
+    400014: FrontLeftTyre
+    400016: FrontNumberPlate
+    400018: FrontRightRim
+    400020: FrontRightTyre
+    400022: FrontWindows
+    400024: FrontWindows 1
+    400026: Hood
+    400028: Mirrors
+    400030: //RootNode
+    400032: RearDoor
+    400034: RearLeftBumper
+    400036: RearLeftRim
+    400038: RearLeftTyre
+    400040: RearNumberPlate
+    400042: RearRightBumper
+    400044: RearRightTyre
+    400046: Rollcage
+    400048: SideBars
+    400050: Spotlights
+    2300000: Axles
+    2300002: Body
+    2300004: Canopy
+    2300006: CanopyWindows
+    2300008: Exhaust
+    2300010: FrontBumper
+    2300012: FrontLeftRim
+    2300014: FrontLeftTyre
+    2300016: FrontNumberPlate
+    2300018: FrontRightRim
+    2300020: FrontRightTyre
+    2300022: FrontWindows
+    2300024: FrontWindows 1
+    2300026: Hood
+    2300028: Mirrors
+    2300030: RearDoor
+    2300032: RearLeftBumper
+    2300034: RearLeftRim
+    2300036: RearLeftTyre
+    2300038: RearNumberPlate
+    2300040: RearRightBumper
+    2300042: RearRightTyre
+    2300044: Rollcage
+    2300046: SideBars
+    2300048: Spotlights
+    3300000: Axles
+    3300002: Body
+    3300004: Canopy
+    3300006: CanopyWindows
+    3300008: Exhaust
+    3300010: FrontBumper
+    3300012: FrontLeftRim
+    3300014: FrontLeftTyre
+    3300016: FrontNumberPlate
+    3300018: FrontRightRim
+    3300020: FrontRightTyre
+    3300022: FrontWindows
+    3300024: FrontWindows 1
+    3300026: Hood
+    3300028: Mirrors
+    3300030: RearDoor
+    3300032: RearLeftBumper
+    3300034: RearLeftRim
+    3300036: RearLeftTyre
+    3300038: RearNumberPlate
+    3300040: RearRightBumper
+    3300042: RearRightTyre
+    3300044: Rollcage
+    3300046: SideBars
+    3300048: Spotlights
+    4300000: Body
+    4300002: CanopyWindows
+    4300004: FrontLeftTyre
+    4300006: FrontLeftRim
+    4300008: SideBars
+    4300010: Axles
+    4300012: FrontBumper
+    4300014: FrontNumberPlate
+    4300016: Hood
+    4300018: Mirrors
+    4300020: Canopy
+    4300022: Exhaust
+    4300024: RearNumberPlate
+    4300026: RearLeftBumper
+    4300028: RearDoor
+    4300030: RearRightBumper
+    4300032: Rollcage
+    4300034: Spotlights
+    4300036: FrontWindows
+    4300038: RearLeftRim
+    4300040: RearLeftTyre
+    4300042: FrontRightRim
+    4300044: FrontWindows
+    4300046: RearRightTyre
+    4300048: FrontRightTyre
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

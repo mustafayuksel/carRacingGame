@@ -1,0 +1,217 @@
+-debug
+-target:library
+-nowarn:0169
+-out:'Temp/Assembly-CSharp.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
+-r:'Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'Assets/EasyRoads3D Free/lib/EasyRoads3D.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll'
+-r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
+-r:'/Applications/Unity/Unity.app/Contents/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll'
+-define:UNITY_5_1_1
+-define:UNITY_5_1
+-define:UNITY_5
+-define:ENABLE_NEW_BUGREPORTER
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_4_6_FEATURES
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_FRAME_DEBUGGER
+-define:ENABLE_GENERICS
+-define:ENABLE_HOME_SCREEN
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_LIGHT_PROBES_LEGACY
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_PHYSICS_PHYSX3
+-define:ENABLE_PLUGIN_INSPECTOR
+-define:ENABLE_SHADOWS
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_UNET
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_VR
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_AUDIOMIXER_SUSPEND
+-define:ENABLE_EDITOR_METRICS
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:INCLUDE_IL2CPP
+-define:INCLUDE_DIRECTX12
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_LOCALIZATION
+-define:UNITY_STANDALONE_OSX
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GAMECENTER
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_OSX
+-define:CROSS_PLATFORM_INPUT
+'Assets/0000 terrain snow/atsV3 UnityTerrainSnow Package/Scripts/CustomTerrainScriptAtsV3Snow.cs'
+'Assets/Deneme.cs'
+'Assets/DestroyLevel.cs'
+'Assets/EasyRoads3D Free/scripts/EasyRoads3DTerrainID.cs'
+'Assets/EasyRoads3D Free/scripts/MarkerScript.cs'
+'Assets/EasyRoads3D Free/scripts/RoadObjectScript.cs'
+'Assets/EasyRoads3D Free/scripts/SurfaceScript.cs'
+'Assets/GiveMoney.cs'
+'Assets/GoogleMobileAds/Api/AdFailedToLoadEventArgs.cs'
+'Assets/GoogleMobileAds/Api/AdPosition.cs'
+'Assets/GoogleMobileAds/Api/AdRequest.cs'
+'Assets/GoogleMobileAds/Api/AdSize.cs'
+'Assets/GoogleMobileAds/Api/BannerView.cs'
+'Assets/GoogleMobileAds/Api/Gender.cs'
+'Assets/GoogleMobileAds/Api/InterstitialAd.cs'
+'Assets/GoogleMobileAds/Common/DummyClient.cs'
+'Assets/GoogleMobileAds/Common/IAdListener.cs'
+'Assets/GoogleMobileAds/Common/IGoogleMobileAdsBannerClient.cs'
+'Assets/GoogleMobileAds/Common/IGoogleMobileAdsInterstitialClient.cs'
+'Assets/GoogleMobileAds/Platforms/Android/AdListener.cs'
+'Assets/GoogleMobileAds/Platforms/Android/AndroidBannerClient.cs'
+'Assets/GoogleMobileAds/Platforms/Android/AndroidInterstitialClient.cs'
+'Assets/GoogleMobileAds/Platforms/Android/Utils.cs'
+'Assets/GoogleMobileAds/Platforms/GoogleMobileAdsClientFactory.cs'
+'Assets/GoogleMobileAds/Platforms/iOS/Externs.cs'
+'Assets/GoogleMobileAds/Platforms/iOS/IOSBannerClient.cs'
+'Assets/GoogleMobileAds/Platforms/iOS/IOSInterstitialClient.cs'
+'Assets/GoogleMobileAds/Platforms/iOS/MonoPInvokeCallbackAttribute.cs'
+'Assets/LevelSelect.cs'
+'Assets/LoadGame.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Characters/FirstPersonCharacter/Scripts/HeadBob.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Characters/FirstPersonCharacter/Scripts/RigidbodyFirstPersonController.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/AfterburnerPhysicsForce.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/ExplosionFireAndDebris.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/ExplosionPhysicsForce.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/ExtinguishableParticleSystem.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/FireLight.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/Hose.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/ParticleSystemMultiplier.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/SmokeParticles.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/ParticleSystems/Scripts/WaterHoseParticles.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/ActivateTrigger.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/AutoMobileShaderSwitch.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/AutoMoveAndRotate.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/CameraRefocus.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/CurveControlledBob.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/DragRigidbody.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/DynamicShadowSettings.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/FOVKick.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/FPSCounter.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/FollowTarget.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/ForcedReset.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/LerpControlledBob.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/ObjectResetter.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/ParticleSystemDestroyer.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/PlatformSpecificContent.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/SimpleActivatorMenu.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/SimpleMouseRotator.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/SmoothFollow.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/TimedObjectActivator.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/TimedObjectDestructor.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/WaypointCircuit.cs'
+'Assets/RealisticCarControllerV2/Standard Assets/Utility/WaypointProgressTracker.cs'
+'Assets/Scripts/AdvertisementAdmob.cs'
+'Assets/Scripts/AdvertisementTest.cs'
+'Assets/Scripts/AdvertisementTopBanner.cs'
+'Assets/Scripts/AnimateBonus.cs'
+'Assets/Scripts/AnimateFlyingText.cs'
+'Assets/Scripts/BackHandle.cs'
+'Assets/Scripts/BannerAdvertisement.cs'
+'Assets/Scripts/BlinkCar.cs'
+'Assets/Scripts/Bomb.cs'
+'Assets/Scripts/BombMultipleSkill.cs'
+'Assets/Scripts/BombSkill.cs'
+'Assets/Scripts/BoxBehaviour.cs'
+'Assets/Scripts/CameraFollow.cs'
+'Assets/Scripts/Car.cs'
+'Assets/Scripts/CarLineState.cs'
+'Assets/Scripts/CarState.cs'
+'Assets/Scripts/CarUtils.cs'
+'Assets/Scripts/CubeBehaviour.cs'
+'Assets/Scripts/DestroyTimer.cs'
+'Assets/Scripts/EmptySkill.cs'
+'Assets/Scripts/Engine.cs'
+'Assets/Scripts/ExtensionMethods.cs'
+'Assets/Scripts/Fuel.cs'
+'Assets/Scripts/FullScreenAd.cs'
+'Assets/Scripts/GameUtils.cs'
+'Assets/Scripts/GenerateTraffic.cs'
+'Assets/Scripts/ISkill.cs'
+'Assets/Scripts/KillAllSkill.cs'
+'Assets/Scripts/KillNearSkill.cs'
+'Assets/Scripts/Level.cs'
+'Assets/Scripts/LevelManager.cs'
+'Assets/Scripts/LoadCar.cs'
+'Assets/Scripts/MakeInvisible.cs'
+'Assets/Scripts/MineBehaviour.cs'
+'Assets/Scripts/Motor.cs'
+'Assets/Scripts/MultiLanguageAt.cs'
+'Assets/Scripts/MultiLanguageCharacterSelectScene.cs'
+'Assets/Scripts/MultiLanguageImageSliding.cs'
+'Assets/Scripts/MultiLanguageLoading.cs'
+'Assets/Scripts/MultiLanguageMainScene.cs'
+'Assets/Scripts/MultiLanguageTutorialScene.cs'
+'Assets/Scripts/NewBehaviourScript.cs'
+'Assets/Scripts/ObjectUtils.cs'
+'Assets/Scripts/ObjectUtilsFactory.cs'
+'Assets/Scripts/OilBehaviour.cs'
+'Assets/Scripts/PreferencesManager.cs'
+'Assets/Scripts/QuitGame.cs'
+'Assets/Scripts/ResetPrefs2.cs'
+'Assets/Scripts/RollingPlatform.cs'
+'Assets/Scripts/SceneLoader.cs'
+'Assets/Scripts/SceneToGo.cs'
+'Assets/Scripts/ShieldSkill.cs'
+'Assets/Scripts/ShowButton.cs'
+'Assets/Scripts/ShowShield.cs'
+'Assets/Scripts/SkillIndex.cs'
+'Assets/Scripts/SkillProviderBehaviour.cs'
+'Assets/Scripts/SpeedShow.cs'
+'Assets/Scripts/SpeederBehaviour.cs'
+'Assets/Scripts/SpeedoMeters.cs'
+'Assets/Scripts/TntSkill.cs'
+'Assets/Scripts/TrapBehaviour.cs'
+'Assets/Scripts/TriggerDestroy.cs'
+'Assets/Scripts/TruckBehaviour.cs'
+'Assets/Scripts/TruckUtils.cs'
+'Assets/Scripts/TruckWithShield.cs'
+'Assets/Scripts/Tutorial.cs'
+'Assets/Scripts/VehicleUtils.cs'
+'Assets/Scripts/VehicleUtilsFactory.cs'
+'Assets/SimpleCarController.cs'
+'Assets/SoundToggle.cs'
+'Assets/WorldPool.cs'
+'Assets/imageanimations/imagesliding.cs'
+'Assets/motor.cs'
+'Assets/quit.cs'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
+-r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
